@@ -1,6 +1,6 @@
-# The Case Study
+# Aussie Rentals Business
 
-## Aussie Car Rentals
+## What is Aussie Car Rentals
 
 Aussie Car Rentals is a car rental company owned by private investors.
 
