@@ -1,2 +1,2 @@
-chapter1-the-basics.txt
+the-case-study.md
 chapter2-writing-in-markua.txt
