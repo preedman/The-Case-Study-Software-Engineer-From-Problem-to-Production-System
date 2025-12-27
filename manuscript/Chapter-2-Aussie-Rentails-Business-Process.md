@@ -1,4 +1,4 @@
-# Aussie Rentals Business Rules
+# Aussie Rentals Business Process
 
 ## Customer Constraints
 1. **License Verification:** Every individual listed as a driver (the primary renter and any additional drivers) must present a current, unexpired driver's licence appropriate for the vehicle class.
@@ -56,7 +56,7 @@ If a customer who has rented the car but does not pick it up within the agreed t
    credit card
 2. **Charge for No Show:** If a rental has been guaranteed by credit card and the car has not been picked up by the end of the scheduled pick-up day, one day's rental is charged to the credit card
    and the car is released for use the following day.
- 
+
 ### 8. Return of Cars
 If a customer returns the car after the agreed timeframe,
 1.  **Payment:** The customer must pay the full amount of the rental.
