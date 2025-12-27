@@ -40,6 +40,15 @@ If the requested group or model is unavailable, apply these rules in order:
 3.  **Walk-in Cost:** Walk-in rentals are charged at a fixed rate of $10 per hour.
 4.  **Walk-in Car:** If there are several available cars of the model or group requested, the one with the lowest mileage should be allocated.
 
+### 6. Handover of Car to the Customer
+After a car has been assigned to a customer,
+1. **Driver Age:** Each driver authorized to drive the car during a rental must be over 25 and have held a driver's license for at least one year.
+2. **Car Handover:** The car must be returned to the branch at the end of the rental period.
+3. **Credit Card:** The customer must provide a credit card number for the duration of the rental.
+4. **No Current Rentals:** The driver who signs the rental agreement must not currently have a car on rental.
+5. **Credit Card Verification:** Before releasing the car, a credit reservation equivalent to the estimated rental cost must be made against the guaranteeing credit card
+6. **Prepare Car:** The car must have been prepared -- cleaned, full tank of fuel, oil and water topped, tires properly inflated, the car must have been prepared – cleaned.full tank of fuel, oil and water topped up.
+7. **Roadworthy:** The car must be in good condition and ready for use.
 
 
 
