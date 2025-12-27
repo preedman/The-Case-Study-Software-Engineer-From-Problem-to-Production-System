@@ -50,5 +50,17 @@ After a car has been assigned to a customer,
 6. **Prepare Car:** The car must have been prepared -- cleaned, full tank of fuel, oil and water topped, tires properly inflated, the car must have been prepared – cleaned.full tank of fuel, oil and water topped up.
 7. **Roadworthy:** The car must be in good condition and ready for use.
 
-
-
+### 7. No Shows
+If a customer who has rented the car but does not pick it up within the agreed timeframe,
+1. **No Show Fee:** If an assigned car has not been picked up 90 minutes after the scheduled pick-up time, it may be released for walk-in rental, unless the rental has been guaranteed by
+   credit card
+2. **Charge for No Show:** If a rental has been guaranteed by credit card and the car has not been picked up by the end of the scheduled pick-up day, one day's rental is charged to the credit card
+   and the car is released for use the following day.
+ 
+### 8. Return of Cars
+If a customer returns the car after the agreed timeframe,
+1.  **Payment:** The customer must pay the full amount of the rental.
+2.  **Return of Car:** The car must be returned to the agreed branch at the end of the rental period.
+3.  **Car Review:** The car must be checked for wear (brakes, lights, tires, exhaust, wipers etc.) and damage, and repairs scheduled if necessary.
+4.  **Car Kilometers:** The car odometer must be checked to ensure it is accurate. The number of kilometers driven must be recorded.
+5. 

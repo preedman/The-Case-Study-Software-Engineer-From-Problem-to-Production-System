@@ -1,2 +1,2 @@
 Chapter1-Aussie-car-rentals-business.md
-chapter2-Aussie-rentals-business-rules.md
+Chapter2-Aussie-Rentals-Business-Rules.md
