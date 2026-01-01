@@ -1,3 +1,0 @@
-Chapter1-Aussie-car-rentals-business.md
-Chapter2-Aussie-Rentals-Business-Process.md
-Chapter3-Aussie-Rentals-Use-Cases.md
